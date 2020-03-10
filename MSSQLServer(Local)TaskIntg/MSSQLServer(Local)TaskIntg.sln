@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLServer(Local)TaskIntg", "MSSQLServer(Local)TaskIntg.csproj", "{924F0607-BB13-4AB2-ABE7-9E27A2310841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924F0607-BB13-4AB2-ABE7-9E27A2310841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924F0607-BB13-4AB2-ABE7-9E27A2310841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924F0607-BB13-4AB2-ABE7-9E27A2310841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924F0607-BB13-4AB2-ABE7-9E27A2310841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14505A5-A076-4E2A-AC49-FF57B5FE0F4E}
+	EndGlobalSection
+EndGlobal

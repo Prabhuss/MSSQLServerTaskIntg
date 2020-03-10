@@ -1,0 +1,7 @@
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\bin\Debug\MSSQLServer(Local)TaskIntg.exe.config
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\bin\Debug\MSSQLServer(Local)TaskIntg.exe
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\bin\Debug\MSSQLServer(Local)TaskIntg.pdb
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\obj\Debug\MSSQLServer(Local)TaskIntg.csproj.CoreCompileInputs.cache
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\obj\Debug\MSSQLServer(Local)TaskIntg.exe
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\obj\Debug\MSSQLServer(Local)TaskIntg.pdb
+C:\Users\anjumvm\source\repos\MSSQLServer(Local)TaskIntg\obj\Debug\MSSQLServer(Local)TaskIntg.csprojAssemblyReference.cache
